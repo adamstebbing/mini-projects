@@ -1,4 +1,5 @@
-# Test of Git Version Control Part 2
+# Git Version Testing
+>>>>>>> test
 # Variable Declerations
 test_traveler = ['Erin Wilkes', 'Shanghai, China', ['historical site', 'art']]
 attractions = [[], [], [], [], []]
