@@ -16,4 +16,4 @@ Small projects coded in Python, most are based on online tutorials and other peo
 
 **AdvancedKeylogger.py** is a more advanced program that is designed to run in the background and record keyboard actions locally until it can be exfiltrated to a programmed email account. Used to test more advanced Python design and email libraries (based off a YouTube video). Note: The fromAddr and fromPswd can either be created in a seperate Config.py file or at the beginning of the program (just be sure to get rid of 'import config').
 
-**hexdump.py** is a program that dumps the contents of a file in hexadecimal and ASCII format side-by-side Used to test Python argparse library.
+**hexdump.py** is a program that dumps the contents of a file in hexadecimal and ASCII format side-by-side used to test Python argparse library.
